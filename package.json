@@ -10,7 +10,7 @@
     "package": "./package.sh"
   },
   "author": "Nick Shine",
-  "repository": "github:nickshine/lambda-edge-azure-auth",
+  "repository": "github:KPMG-UK/lambda-edge-azure-auth",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.2",
