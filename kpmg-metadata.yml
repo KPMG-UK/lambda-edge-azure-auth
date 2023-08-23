@@ -1,0 +1,6 @@
+kpmg-code/category: 'reusable-component | sandbox | infrastructure-code | source-code | helper-library #delete as required'
+kpmg-code/cmdb:
+  kpmg-uk/inventory:
+    url: https://inventory.customappsteam.co.uk/service/<insert id here>
+kpmg-code/metadata_version: v1.2
+kpmg-code/service_name: <insert service name here>
